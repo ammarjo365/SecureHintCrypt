@@ -13,4 +13,4 @@ if __name__ == "__main__":
     encrypted_hint = custom_encrypt(hint, key)
     print(f"Encrypted Hint: {encrypted_hint}")
 
-# Encrypted Hint: 9uuN5GqkxQKxft+kMau+2erK0rFeaoeQwwH2jFRDhwHHooD/PvftHaxumus25e3ZzMzX/1k514PZV/udUAiJAJ72jLAl96o=
+# Encrypted Hint: /+6K8zWk5QC8PfjrMuKp2djX2eBMPpLCwRLu2FIMghfX8ZfjcOviTu893u03rK6KiMTDtkEvlonPE7eMXkOZF5A=
