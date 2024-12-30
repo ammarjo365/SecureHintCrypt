@@ -7,7 +7,6 @@ def custom_encrypt(plaintext, key):
     return base64.b64encode(ciphertext).decode('utf-8')
 
 if __name__ == "__main__":
-
     hint = "No Hint for you :)"
     key = "No Key for you :)"  #.... .- .-. -.. -....- . -..- - .-. . -- . .-.. -.-- -....- -. --- -....- .-- .- -.-- -....- - --- -....- ... --- .-.. ...- . -....- .. - -.-.-- -.-.-- -.-.--
 
